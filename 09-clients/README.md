@@ -19,3 +19,13 @@ Per-client engagement folders. Empty until there are real clients.
 ├── delivery/         # Work product
 └── assets/           # Client-provided material
 ```
+
+## When does a prospect become a client folder?
+
+A prospect lives in `04-outreach/pipeline.md` until they reach **`won`** stage. At that point:
+
+1. Copy `_template/` to `09-clients/<client-slug>/`.
+2. Fill `brief.md` and `scope.md` from the proposal.
+3. Update the prospect's pipeline row with a pointer to the client folder, or move them to a `won` section.
+
+Reusable SOPs, playbooks, and proof produced during a client engagement should be promoted back to `05-delivery/` or `06-assets/` (with sensitive specifics redacted) so the whole operation gets stronger over time.

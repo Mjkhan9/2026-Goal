@@ -37,8 +37,14 @@ See `00-compass/` for the full thesis and principles.
 Root files:
 
 - `README.md` — this file.
-- `AGENTS.md` — operating instructions for any AI tool working in this repo.
+- `AGENTS.md` — behavioral contract for any AI tool working in this repo (source of truth).
+- `CLAUDE.md` — Claude-native onboarding guide; stays consistent with `AGENTS.md`.
 - `.gitignore`, `.editorconfig` — repo hygiene.
+
+Key operating pointers:
+
+- Repo ↔ Claude Project vocabulary: `01-state/context-map.md`
+- Where to start a session: `01-state/current-focus.md` → `01-state/next-actions.md` → `01-state/handoff.md`
 
 ---
 

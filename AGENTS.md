@@ -1,6 +1,6 @@
 # AGENTS.md — Operating Instructions for AI Tools
 
-This file tells any AI system (Claude, ChatGPT, Cursor, Claude Code, etc.) how to behave when working inside this repository.
+This file tells any AI system (Claude, ChatGPT, Cursor, Claude Code, etc.) how to behave when working inside this repository. Claude-family tools should also read [`CLAUDE.md`](./CLAUDE.md); if the two ever diverge, **this file wins** and `CLAUDE.md` must be updated to match.
 
 ## What this repo is
 
@@ -9,10 +9,12 @@ A private operating system for an AI-leveraged second-income initiative. It is *
 ## Default behavior
 
 1. **Orient before acting.** On any non-trivial task, read in this order:
+   - `CLAUDE.md` (if you are a Claude-family tool)
    - `00-compass/north-star.md`
    - `00-compass/operating-principles.md`
    - `01-state/current-focus.md`
    - `01-state/next-actions.md`
+   - `01-state/context-map.md` (for Claude Project / tool vocabulary)
    - The README of the folder you are about to modify.
 2. **Place work correctly.** Every artifact has an obvious home (see root `README.md` and per-folder READMEs). Do not create new top-level folders without explicit instruction.
 3. **Prefer editing over creating.** If a file already exists for a topic, extend it. Avoid duplicate or near-duplicate files.
