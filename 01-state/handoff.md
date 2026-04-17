@@ -2,10 +2,15 @@
 
 Written so any AI tool or future session can resume work cold. Update before stopping work, switching tools, or ending a chat thread.
 
-_Last updated: 2026-04-16_
+_Last updated: 2026-04-17_
 
 ## Where things stand
-Repo scaffold has been created. No business content yet. Structure is ready to be populated.
+Foundation is functionally complete. North star drafted. A primary
+hypothesis has been selected to validate first: "Entra / M365 Identity
+Hygiene Audit for SMBs." This is the strongest unvalidated hypothesis on
+paper, not a committed strategy. AD/Entra remediation and IT
+documentation are parked as alternative hypotheses, not killed. No buyer
+conversations have happened yet. The project is entering validation.
 
 ## What was just done
 - Top-level folders and README files created.
