@@ -6,39 +6,53 @@ Restart file for future Claude sessions or tool handoffs. Read this first when r
 
 ## Project
 
-**2026 Goal Project** — a serious, AI-leveraged second-income initiative operated by Mohammad Jawad Khan (Houston / Sugar Land, TX). Background: practical IT/OT, IAM, cloud-adjacent systems. Time and budget are limited, so the project stays compact and high-leverage.
+**2026 Goal Project** — a serious, AI-leveraged second-income initiative operated by Mohammad Jawad Khan in the Houston / Sugar Land area.
 
 ## Current state
 
-Setup / foundation phase. The operating system (GitHub repo + Claude Project) is being finalized. **No niche, offer, or buyer has been selected yet.** Do not assume any business specifics exist.
+Still in setup / foundation mode.
+
+The operating system is now mostly in place:
+- GitHub repo scaffold exists
+- Claude Project instructions exist
+- Claude memory files exist
+
+What does **not** exist yet:
+- chosen niche
+- chosen offer
+- validated buyer
+- outreach results
+- proof
 
 ## What has already happened
 
-- GitHub repo scaffolded and pushed: numbered domain folders, per-folder READMEs, `AGENTS.md`, `CLAUDE.md`, live state layer in `01-state/`, prompt library in `07-prompts/`, client template in `09-clients/_template/`.
-- Repo ↔ Claude Project mapping documented in `01-state/context-map.md`.
-- Claude Project instructions created and refined.
-- Claude memory layer established at the repo root (this file plus `MASTER_BRIEF.md`, `CURRENT_STATE.md`, `NEXT_ACTIONS.md`).
+- Repo structure was created and refined enough to use.
+- Repo behavior files were created.
+- Claude-facing memory files were created.
+- The project direction is clear: use AI as leverage to build a real second-income system, not generic “AI ideas.”
 
 ## What is happening now
 
-- Finalizing the Claude memory layer.
-- Preparing to transition out of setup and into real niche selection and first-offer work.
+The immediate goal is to finish the foundation and move into actual validation.
+
+The next real transition is:
+setup -> niche selection -> offer hypothesis -> first validation activity
 
 ## Immediate next step
 
-Draft `00-compass/north-star.md` with an honest first version (mission, thesis, 12-month intent, success criteria, explicit non-goals). Then mirror the four Claude memory files into the Claude Project knowledge set.
+Finish `00-compass/north-star.md`, then identify 2–3 realistic candidate niches and choose one to validate first.
 
 ## What happens after that
 
-1. Identify 2–3 candidate niches in `02-research/niches/` grounded in real operator strengths and realistic buyer access.
-2. Select one niche; record the choice in `01-state/decisions/`.
-3. Draft the first offer hypothesis in `03-offers/drafts/`.
-4. Run a small, manual first outreach batch.
+1. Define the first offer hypothesis.
+2. Decide the first validation channel.
+3. Run a small first validation batch.
+4. Record decisions and results in the repo.
 
-## Important continuity notes
+## Continuity rules
 
-- **Source of truth:** the repo. Any contradiction between a chat thread and a repo file is resolved in favor of the repo.
-- **Precedence for AI behavior:** `AGENTS.md` is the behavioral contract; `CLAUDE.md` is the Claude-native onboarding; both must stay consistent.
-- **No fabrication.** Do not invent niches, offers, buyers, metrics, case studies, or outcomes. If something is not yet decided, say so explicitly.
-- **Stay in setup discipline.** Until a niche is selected, avoid producing SOPs, automations, outreach content, or product work.
-- **End of every session:** update `CURRENT_STATE.md`, `NEXT_ACTIONS.md`, and this file so the next session (human or AI) starts at zero friction.
+- The repo is the source of truth.
+- If chat and files conflict, files win.
+- Do not invent niches, buyers, proof, results, or case studies.
+- Keep the project focused on one real path at a time.
+- At the end of meaningful sessions, update `CURRENT_STATE.md`, `NEXT_ACTIONS.md`, and this file.
