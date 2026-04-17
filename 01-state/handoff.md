@@ -13,15 +13,26 @@ documentation are parked as alternative hypotheses, not killed. No buyer
 conversations have happened yet. The project is entering validation.
 
 ## What was just done
-- Top-level folders and README files created.
-- `AGENTS.md`, `README.md`, `.gitignore`, `.editorconfig` added.
-- `00-compass/` and `01-state/` seeded with stubs.
+- `00-compass/north-star.md` drafted in full (mission, thesis, 12-month
+  intent, success criteria, explicit non-goals).
+- First offer hypothesis selected to validate: "Entra / M365 Identity
+  Hygiene Audit for SMBs." AD/Entra remediation and IT documentation
+  parked as alternative hypotheses.
+- Decision 0001 recorded: retired the root-level memory files; 00-compass
+  and 01-state are now the single source of truth.
+- `01-state/context-map.md` updated to reflect the retirement.
 
 ## What I was about to do next
-See `next-actions.md` — start by filling `00-compass/north-star.md`.
+See `next-actions.md`. First concrete move: write
+`02-research/niches/entra-identity-hygiene-smb.md` defining the ICP.
 
 ## Open questions / unresolved threads
-- _TBD_
+- Vertical focus inside SMB not yet locked. Decide during ICP file.
+- Pricing anchor ($2.5K–$5K audit, placeholder) unvalidated. Surface
+  during first discovery conversations.
+- `07-prompts/claude-project/instructions.md` referenced in
+  `context-map.md` but does not yet exist. Create when pasting the next
+  version of Claude Project instructions.
 
 ## Context any AI needs to know
 - This is a private, AI-leveraged second-income initiative.
