@@ -1,0 +1,76 @@
+# --- OS ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+.claude/
+
+# --- Secrets & local config ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+**/secrets.*
+**/credentials.*
+
+# --- Local scratch / drafts ---
+scratch/
+_scratch/
+tmp/
+.tmp/
+*.local.md
+*.draft.md
+
+# --- Node / JS (when 08-automations grows) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+dist/
+build/
+.next/
+.turbo/
+.cache/
+
+# --- Python (when 08-automations grows) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# --- Logs & coverage ---
+*.log
+logs/
+coverage/
+.nyc_output/
+
+# --- Large / binary exports ---
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+exports/
+
+# --- Client-sensitive material (future) ---
+09-clients/**/private/
+09-clients/**/_raw/
