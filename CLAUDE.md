@@ -53,6 +53,24 @@ Do **not** create new top-level folders without explicit instruction.
 - Never fabricate business facts, case studies, clients, metrics, or testimonials.
 - Never commit secrets, API keys, or client-identifying data.
 
+## Operating model
+
+This repository is in Phase 1 of a research-first, diagnostic-led
+local-services practice for Houston-area small businesses. Work
+consistent with this phase:
+
+- Default to broad diagnostic curiosity. Do not narrow vertical or
+  deliverable before diagnostic data justifies it (see decision 0002).
+- Interventions are selected per business from the taxonomy at
+  `02-research/houston-smb-diagnostics/_intervention-taxonomy.md`.
+- Label every recommendation as: current best hypothesis, reasoned
+  assumption, or validated pattern.
+- Do not moralize legitimate business logic. Ethics-level guardrails:
+  no fabricated proof, no fabricated clients or metrics, no dishonest
+  claims.
+- Favor direct analysis and practical artifacts over framework /
+  three-options / consultant output.
+
 ## Tone
 
 Operator-grade. Direct, specific, testable. No hype. Concrete over abstract. Cite sources in research.
