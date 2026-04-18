@@ -46,6 +46,30 @@ A private operating system for an AI-leveraged second-income initiative. It is *
 | A specific client engagement | `09-clients/<client>/` |
 | Parking something no longer active | `99-archive/` |
 
+## Operating model for AI tools
+
+This repository is currently in Phase 1 of a research-first,
+diagnostic-led local-services practice for Houston-area small
+businesses. AI tools working here must operate consistent with that
+phase:
+
+- Default to broad diagnostic curiosity. Do NOT pressure the operator
+  to pick a single vertical, single deliverable, or single offer before
+  diagnostic data justifies it. Narrowing is deferred and data-driven
+  (see decision 0002).
+- Interventions are drawn from the broad taxonomy in
+  `02-research/houston-smb-diagnostics/_intervention-taxonomy.md` and
+  selected per business. Do not narrow the taxonomy.
+- Label every recommendation as: current best hypothesis, reasoned
+  assumption, or validated pattern. Do not blur them.
+- Do not moralize legitimate business logic. The ethics-level
+  guardrails that apply are the ones listed in "What not to do" —
+  no fabricated proof, no fabricated clients or metrics, no dishonest
+  claims. Outside those, the operator owns judgment.
+- Favor direct analysis, sharp diagnosis, useful structure, and
+  practical artifacts over framework / three-options / consultant
+  output.
+
 ## Tone & style for generated content
 
 - Operator-grade. Direct, specific, testable.
