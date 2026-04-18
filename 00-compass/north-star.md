@@ -1,41 +1,44 @@
 # North Star
 
-> One-paragraph statement of what this initiative is, for whom, and why it will work. Keep this short and honest.
+> Short, honest statement of what this initiative is, for whom, and why it will work.
 
 ## Mission
-Build a lean, AI-leveraged second-income engine that sells concrete
-business outcomes — not AI novelty — by pairing real operator judgment
-with AI as the force multiplier.
+Build a lean, AI-leveraged second-income practice that finds and fixes visible
+business problems for Houston-area small businesses — diagnosis first,
+specialization later.
 
 ## Thesis (working hypothesis)
-The bet being tested: small and mid-sized businesses are accumulating
-unmanaged complexity in their identity, access, and Microsoft/cloud
-environments faster than they can clean it up, and AI now compresses the
-audit and documentation labor enough that a technically capable operator
-can deliver a fixed-scope outcome profitably at a second-income scale.
-This thesis is reasoned, not yet validated. It will be revised or replaced
-based on real buyer signal.
+Many small businesses have visible digital and operational gaps — weak online
+presence, broken lead capture, no booking system, poor local SEO, manual work
+that should be automated. AI compresses the time it takes to diagnose these
+gaps and scope a fix. A technically capable operator who researches businesses
+first, diagnoses honestly, and delivers specific outcomes can do this
+profitably at second-income scale. Specialization comes after patterns emerge
+from real diagnostics, not before.
+
+This thesis is reasoned, not yet validated. It will be revised based on what
+actual diagnostics reveal.
 
 ## 12-Month Intent
-Run one validated, repeatable, fixed-scope offer to paying buyers, with
-enough delivery experience to have a real SOP and at least one documented
-case study.
+Accumulate enough real diagnostic work on Houston-area SMBs to identify which
+intervention types are most common, most valued, and most deliverable — then
+narrow into those and deliver real engagements with documented outcomes.
 
 ## Success Criteria
+- 20+ diagnostic briefs completed on real, identifiable Houston-area businesses.
 - At least 3 paid engagements delivered, with real (not fabricated) outcomes.
-- One offer with stable scope and pricing — delivered the same way twice
-  in a row without reinvention.
-- A delivery SOP in `05-delivery/` that compresses delivery time
-  meaningfully between engagement 1 and engagement 3.
-- The thesis above is either validated or explicitly revised within 90
-  days of first discovery conversations.
+- At least one repeatable intervention type identified from observed patterns.
+- A delivery SOP in `05-delivery/` for that intervention type, written after
+  delivery experience, not before.
 
 ## Explicit Non-Goals
-- No content creation business (YouTube, newsletter, course,
-  audience-building as the primary path).
+- No premature narrowing to one vertical or deliverable before diagnostics
+  justify it.
+- No generic "AI consulting" positioning — every engagement must be tied to
+  a specific, diagnosable problem.
+- No fabricated proof, traction, case studies, or client names.
 - No product or SaaS build before a service has been delivered repeatedly
   and manually.
-- No generic "AI consulting" positioning — offers must be specific enough
-  that a buyer can describe them in one sentence.
-- No parallel pursuit of multiple niches during validation.
-- No paid ads, no outsourced sales, no tool-stack sprawl in Phase 1.
+- No content creation business (YouTube, newsletter, course, audience-building
+  as the primary path).
+- No paid ads, outsourced sales, or tool-stack sprawl in Phase 1.

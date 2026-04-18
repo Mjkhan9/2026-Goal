@@ -4,18 +4,20 @@ _Last updated: 2026-04-17_
 
 ## The one thing
 
-Validate the "Entra / M365 Identity Hygiene Audit for SMBs" offer
-hypothesis through 3+ real discovery conversations with buyers matching
-a specific ICP.
+Build the diagnostic workflow and begin logging real diagnostic briefs on
+Houston-area SMBs.
 
 ## Why this, why now
-This is the first offer hypothesis that passes four tests at once on
-paper: outcome-shaped, AI-compressible, fixed-scope, and aligned with the
-operator's actual background. It has not been tested with buyers. The
-goal of this cycle is to get real signal — not to commit to the path.
-Converging early is cheaper than exploring in parallel, but convergence
-here is on *what to test first*, not on what to build.
+The project pivoted away from a prematurely narrowed offer hypothesis (see
+decision 0002). No niche has been validated. No deliverable has been chosen
+as the default lead offer. No buyer conversations have happened. The right
+move at this stage is to accumulate diagnostic volume first and let observed
+patterns guide narrowing — not to commit to an offer before seeing the market.
+
+This phase is about building judgment from real research, not building a product.
 
 ## Out of scope this cycle
-- Building products or automations before an offer is validated.
-- Broad exploration across multiple niches simultaneously.
+- Drafting or marketing a predefined offer before diagnostics justify it.
+- Committing to a specific vertical or intervention type before patterns emerge.
+- Building automations, SOPs, or delivery systems before there is something
+  repeatable to systematize.

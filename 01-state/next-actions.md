@@ -5,27 +5,35 @@ _Last updated: 2026-04-17_
 Short, concrete, doable. Each item should be achievable in one focused session.
 
 ## Now
-- [ ] Write `02-research/niches/entra-identity-hygiene-smb.md` — define
-  the ICP (vertical, size band, geography, pain, urgency, budget signal,
-  accessibility) for the selected hypothesis.
-- [ ] Draft `03-offers/drafts/entra-identity-hygiene-audit.md` using the
-  offer template in `03-offers/README.md`. Placeholder price allowed;
-  flag as (P).
+- [ ] Finalize `02-research/houston-smb-diagnostics/_sourcing-parameters.md`
+  — confirm geography bounds, business size band, sector filters, and
+  exclusions before sourcing begins.
+- [ ] Complete `02-research/houston-smb-diagnostics/_candidate-pool.md`
+  — first batch of 20+ real, publicly identifiable Houston-area SMBs.
+  No fabricated names or addresses.
+- [ ] Run signal scans on the first 5 candidates. Complete one diagnostic
+  brief per business using `_template.md`. File each as
+  `02-research/houston-smb-diagnostics/YYYY-MM-DD-<slug>.md`.
 
 ## Next
-- [ ] Build `04-outreach/targets/houston-smb-m365-v0.md` — 15 companies
-  matching the ICP with a plausible contact role per company. No
-  fabricated names.
-- [ ] Draft `04-outreach/messages/discovery-conversation-v0.md` —
-  discovery script (not sales pitch) targeting 5 specific signals:
-  awareness of identity mess, problem ownership, action triggers, prior
-  attempts, value of a clean result.
-- [ ] Run 3 discovery conversations. Log each as a dated signal file in
-  `02-research/signals/`.
+- [ ] Complete diagnostic briefs for the remaining candidates in the first
+  batch (target: 10–15 total before first pattern review).
+- [ ] Update `_pattern-log.md` after each brief. Note which intervention
+  types appear and at what frequency.
+- [ ] After 10+ briefs: review `_pattern-log.md` and decide whether a
+  clear intervention pattern has emerged. Record the review as a signal
+  file in `02-research/signals/`.
 
 ## Later
-- [ ] Decide explicitly: validate (→ `03-offers/active/`), revise (new
-  ICP or offer shape), or kill and shift to hypothesis #2 (AD/Entra
-  remediation or IT documentation). Record as a decision.
-- [ ] First outreach batch to validate the offer hypothesis.
-- [ ] Record first decisions in `01-state/decisions/`.
+- [ ] Once a pattern is clear: draft an offer in `03-offers/drafts/`
+  based on what diagnostics actually showed — not a pre-chosen hypothesis.
+- [ ] Source outreach targets from the candidate pool that match the
+  pattern-justified ICP.
+- [ ] Run 3+ discovery conversations. Log each in `02-research/signals/`.
+- [ ] Record narrowing decision in `01-state/decisions/`.
+
+## Avoid
+- Starting outreach before at least 10 diagnostic briefs are complete.
+- Drafting an offer before the pattern log shows a real signal.
+- Treating any prior hypothesis (Entra/M365, AD remediation, IT documentation)
+  as validated — they are archived starting points, not confirmed paths.
